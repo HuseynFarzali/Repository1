@@ -1,2 +1,3 @@
 Line1: Function, Delegate, Interface, Class;
 Line2: Byte, Sbyte, Short, Ushort;
+Line3: Integer, Uint, Long, Ulong;
