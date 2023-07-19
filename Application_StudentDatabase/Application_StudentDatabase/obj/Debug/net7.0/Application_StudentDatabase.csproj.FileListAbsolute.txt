@@ -1,0 +1,15 @@
+C:\Users\99450\Desktop\Repository1\Application_StudentDatabase\Application_StudentDatabase\bin\Debug\net7.0\Application_StudentDatabase.exe
+C:\Users\99450\Desktop\Repository1\Application_StudentDatabase\Application_StudentDatabase\bin\Debug\net7.0\Application_StudentDatabase.deps.json
+C:\Users\99450\Desktop\Repository1\Application_StudentDatabase\Application_StudentDatabase\bin\Debug\net7.0\Application_StudentDatabase.runtimeconfig.json
+C:\Users\99450\Desktop\Repository1\Application_StudentDatabase\Application_StudentDatabase\bin\Debug\net7.0\Application_StudentDatabase.dll
+C:\Users\99450\Desktop\Repository1\Application_StudentDatabase\Application_StudentDatabase\bin\Debug\net7.0\Application_StudentDatabase.pdb
+C:\Users\99450\Desktop\Repository1\Application_StudentDatabase\Application_StudentDatabase\obj\Debug\net7.0\Application_StudentDatabase.csproj.AssemblyReference.cache
+C:\Users\99450\Desktop\Repository1\Application_StudentDatabase\Application_StudentDatabase\obj\Debug\net7.0\Application_StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99450\Desktop\Repository1\Application_StudentDatabase\Application_StudentDatabase\obj\Debug\net7.0\Application_StudentDatabase.AssemblyInfoInputs.cache
+C:\Users\99450\Desktop\Repository1\Application_StudentDatabase\Application_StudentDatabase\obj\Debug\net7.0\Application_StudentDatabase.AssemblyInfo.cs
+C:\Users\99450\Desktop\Repository1\Application_StudentDatabase\Application_StudentDatabase\obj\Debug\net7.0\Application_StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\99450\Desktop\Repository1\Application_StudentDatabase\Application_StudentDatabase\obj\Debug\net7.0\Application_StudentDatabase.dll
+C:\Users\99450\Desktop\Repository1\Application_StudentDatabase\Application_StudentDatabase\obj\Debug\net7.0\refint\Application_StudentDatabase.dll
+C:\Users\99450\Desktop\Repository1\Application_StudentDatabase\Application_StudentDatabase\obj\Debug\net7.0\Application_StudentDatabase.pdb
+C:\Users\99450\Desktop\Repository1\Application_StudentDatabase\Application_StudentDatabase\obj\Debug\net7.0\Application_StudentDatabase.genruntimeconfig.cache
+C:\Users\99450\Desktop\Repository1\Application_StudentDatabase\Application_StudentDatabase\obj\Debug\net7.0\ref\Application_StudentDatabase.dll
